@@ -1,5 +1,5 @@
 # ionic2-animation-app
-This is Ionic2 app that I used swipe animation.
+This is Ionic2 app that I implemented swipe animation.
 ## Installation
 Using node package manager:
 ```
@@ -18,5 +18,3 @@ You can see following results after run this project.
 ![](readme-imgs/4.png)  |  ![](readme-imgs/5.png)  |  ![](readme-imgs/6.png)
 ![](readme-imgs/7.png)  |
 
-Looking forward to work with you.
-Thank you.
